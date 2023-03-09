@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact name="web-application">
-    <output-path>$PROJECT_DIR$/out/artifacts/web_application</output-path>
-    <root id="root">
-      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-    </root>
-  </artifact>
-</component>
